@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/porfolio_rade/static/css/main.e145c089.chunk.css",
+    "main.js": "/porfolio_rade/static/js/main.cc7d7e6d.chunk.js",
+    "main.js.map": "/porfolio_rade/static/js/main.cc7d7e6d.chunk.js.map",
+    "runtime-main.js": "/porfolio_rade/static/js/runtime-main.723dd130.js",
+    "runtime-main.js.map": "/porfolio_rade/static/js/runtime-main.723dd130.js.map",
+    "static/js/2.30db3b82.chunk.js": "/porfolio_rade/static/js/2.30db3b82.chunk.js",
+    "static/js/2.30db3b82.chunk.js.map": "/porfolio_rade/static/js/2.30db3b82.chunk.js.map",
+    "index.html": "/porfolio_rade/index.html",
+    "precache-manifest.7e658c14d0a680df17d956cee1aa592c.js": "/porfolio_rade/precache-manifest.7e658c14d0a680df17d956cee1aa592c.js",
+    "service-worker.js": "/porfolio_rade/service-worker.js",
+    "static/css/main.e145c089.chunk.css.map": "/porfolio_rade/static/css/main.e145c089.chunk.css.map",
+    "static/media/1_HFYKWq92BcXJIdata7d-JQ1.png": "/porfolio_rade/static/media/1_HFYKWq92BcXJIdata7d-JQ1.35878a38.png",
+    "static/media/Services.scss": "/porfolio_rade/static/media/fl-00ed6a9b-d1d0-4cc3-b85d-7552cea2e79c_2500x1930.5555555556-1.98ccfbcd.jpg",
+    "static/media/Home.scss": "/porfolio_rade/static/media/smartmockups_k0snd4po.0645d041.jpg",
+    "static/media/About.scss": "/porfolio_rade/static/media/mypicture.0e3aef63.png",
+    "static/media/Node.js_logo.svg": "/porfolio_rade/static/media/Node.js_logo.89ccb090.svg",
+    "static/media/React-icon.svg": "/porfolio_rade/static/media/React-icon.05a3e30f.svg",
+    "static/media/aa.png": "/porfolio_rade/static/media/aa.ef36bc5d.png",
+    "static/media/Projects.scss": "/porfolio_rade/static/media/back.7e6d6fee.jpg",
+    "static/media/Header.scss": "/porfolio_rade/static/media/ffff.10391cbd.jpg",
+    "static/media/firebase1.png": "/porfolio_rade/static/media/firebase1.6753a51c.png",
+    "static/media/gatsby.png": "/porfolio_rade/static/media/gatsby.60a1340b.png",
+    "static/media/pngkey.com-white-png-327123.png": "/porfolio_rade/static/media/pngkey.com-white-png-327123.71f32baa.png",
+    "static/media/smartmockups_jwz2315y.png": "/porfolio_rade/static/media/smartmockups_jwz2315y.b5d6c0f6.png",
+    "static/media/smartmockups_jzkdpxbs.png": "/porfolio_rade/static/media/smartmockups_jzkdpxbs.fbb3c288.png",
+    "static/media/smartmockups_k0pk0xnu.png": "/porfolio_rade/static/media/smartmockups_k0pk0xnu.12597d39.png",
+    "static/media/smartmockups_k0pr9flw.png": "/porfolio_rade/static/media/smartmockups_k0pr9flw.f18a43a1.png"
+  }
+}
