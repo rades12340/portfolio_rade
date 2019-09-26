@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio_rade/static/css/main.b443f239.chunk.css",
+    "main.css": "/portfolio_rade/static/css/main.7cb89401.chunk.css",
     "main.js": "/portfolio_rade/static/js/main.2ac15b5a.chunk.js",
     "main.js.map": "/portfolio_rade/static/js/main.2ac15b5a.chunk.js.map",
     "runtime-main.js": "/portfolio_rade/static/js/runtime-main.967448b2.js",
@@ -8,9 +8,9 @@
     "static/js/2.e9202bdd.chunk.js": "/portfolio_rade/static/js/2.e9202bdd.chunk.js",
     "static/js/2.e9202bdd.chunk.js.map": "/portfolio_rade/static/js/2.e9202bdd.chunk.js.map",
     "index.html": "/portfolio_rade/index.html",
-    "precache-manifest.5521917e3207973b008d80850cfb1591.js": "/portfolio_rade/precache-manifest.5521917e3207973b008d80850cfb1591.js",
+    "precache-manifest.b0ba9ae09d53eca1c41647eeb4359fc6.js": "/portfolio_rade/precache-manifest.b0ba9ae09d53eca1c41647eeb4359fc6.js",
     "service-worker.js": "/portfolio_rade/service-worker.js",
-    "static/css/main.b443f239.chunk.css.map": "/portfolio_rade/static/css/main.b443f239.chunk.css.map",
+    "static/css/main.7cb89401.chunk.css.map": "/portfolio_rade/static/css/main.7cb89401.chunk.css.map",
     "static/media/1_HFYKWq92BcXJIdata7d-JQ1.png": "/portfolio_rade/static/media/1_HFYKWq92BcXJIdata7d-JQ1.35878a38.png",
     "static/media/About.scss": "/portfolio_rade/static/media/mypicture.0e3aef63.png",
     "static/media/Contact.scss": "/portfolio_rade/static/media/2654965.b02e3d1d.jpg",
