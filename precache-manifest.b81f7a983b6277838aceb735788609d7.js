@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "54c700808428b1114871381fd439b506",
+    "revision": "90dc680e2f803fa4a8fd18893a77c42e",
     "url": "/portfolio_rade/index.html"
   },
   {
-    "revision": "b546da82a987018adef2",
-    "url": "/portfolio_rade/static/css/main.7cb89401.chunk.css"
+    "revision": "1a12767c6624769981cc",
+    "url": "/portfolio_rade/static/css/main.21050f33.chunk.css"
   },
   {
     "revision": "e6ca7b16dea90d424d04",
     "url": "/portfolio_rade/static/js/2.e9202bdd.chunk.js"
   },
   {
-    "revision": "b546da82a987018adef2",
-    "url": "/portfolio_rade/static/js/main.2ac15b5a.chunk.js"
+    "revision": "1a12767c6624769981cc",
+    "url": "/portfolio_rade/static/js/main.285c10c3.chunk.js"
   },
   {
     "revision": "b4b71fdcc747581e9a4b",
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio_rade/static/media/Node.js_logo.89ccb090.svg"
   },
   {
-    "revision": "05a3e30fdf60ebe9d00cf4725d44bd42",
-    "url": "/portfolio_rade/static/media/React-icon.05a3e30f.svg"
+    "revision": "84287d09b8053c6fa598893b8910786a",
+    "url": "/portfolio_rade/static/media/React-icon.84287d09.svg"
   },
   {
     "revision": "ef36bc5d72a558a53febebaf1b8a7b93",
