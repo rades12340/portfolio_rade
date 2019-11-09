@@ -1,0 +1,8 @@
+@import url("https://fonts.googleapis.com/css?family=ABeeZee");
+@import "variables.scss";
+
+.bg-primary {
+  background-color: $fr-clr;
+  color: $fr-text;
+  font-family: "ABeeZee", sans-serif;
+}

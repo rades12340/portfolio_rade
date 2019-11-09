@@ -1,0 +1,15 @@
+@import "./styles/base.scss";
+@import "./styles/variables.scss";
+@import url("https://fonts.googleapis.com/css?family=ABeeZee");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  background-color: $fr-clr;
+  color: $fr-text;
+  font-family: "ABeeZee", sans-serif;
+}

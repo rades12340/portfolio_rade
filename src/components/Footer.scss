@@ -1,0 +1,75 @@
+@import "../styles/base.scss";
+@import "../styles/variables.scss";
+
+.footer {
+  padding: 1rem 0 0.2rem;
+  background: $se-clr;
+  box-shadow: -1px -1px 10px rgba(0, 0, 0, 0.178);
+  .container {
+    width: 40%;
+    margin: auto;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 3fr;
+    grid-template-areas:// "social"
+      "links"
+      "dev";
+
+    .one {
+      grid-area: social;
+      font-size: 2rem;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      a {
+        color: $fr-text;
+      }
+      i {
+        padding: 0 2rem;
+      }
+    }
+
+    .two {
+      padding: 1rem 0;
+      grid-area: links;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      align-items: center;
+      a {
+        color: $fr-text;
+        text-decoration: none;
+        cursor: pointer;
+      }
+    }
+
+    .three {
+      grid-area: dev;
+      text-align: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+  }
+}
+
+@media (max-width: 790px) {
+  .footer {
+    padding: 0.5rem;
+    .container {
+      width: 100%;
+      grid-template-rows: 1fr 1fr;
+      grid-template-columns: 1fr;
+      grid-template-areas: //"social"
+        "links"
+        "dev";
+
+      // .one {
+      //   font-size: 1rem;
+      // }
+      .two {
+        padding: 0.5rem 0;
+      }
+    }
+  }
+}

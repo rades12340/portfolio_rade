@@ -1,0 +1,15 @@
+// Main colors
+$fr-clr: rgb(56, 56, 104);
+$se-clr: rgb(67, 67, 133);
+$th-clr: rgb(104, 104, 197);
+
+// Text colors
+$fr-text: rgb(211, 211, 211);
+$se-text: invert($fr-text, 100%);
+$orange-text: rgb(230, 165, 46);
+
+// Text Weight
+$fr-wght: 300;
+$se-wght: 500;
+$tr-wght: 700;
+$fi-wght: 900;
